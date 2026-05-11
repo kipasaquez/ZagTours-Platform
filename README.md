@@ -8,7 +8,7 @@ ZagTours adalah platform Travel Dashboard canggih yang ditenagai oleh kecerdasan
 
 <img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/a24f524c-3c63-4cca-aa59-a90b56807903" />
 
-*Dashboard ZagTours dengan Desain Double-Left Sidebar Modern.*
+*Dashboard ZagTours *
 
 ---
 
